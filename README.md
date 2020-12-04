@@ -27,7 +27,7 @@ Install with npm:
 $ npm install cai-react-material-ui-keyboard    or   yarn add cai-react-material-ui-keyboard
 ```
 
-[![NPM](https://nodei.co/npm/react-material-ui-keyboard.png?downloads=true&stars=true)](https://nodei.co/npm/react-material-ui-keyboard/)
+<!-- [![NPM](https://nodei.co/npm/react-material-ui-keyboard.png?downloads=true&stars=true)](https://nodei.co/npm/react-material-ui-keyboard/) -->
 
 # Changelog
 
